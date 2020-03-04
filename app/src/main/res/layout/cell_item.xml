@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout  xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <data>
+
+        <variable
+            name="cellViewModel"
+            type="org.anitab.stemdiversetv.CellViewModel" />
+
+    </data>
+<LinearLayout
+    android:id="@+id/root"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/cell_background_selector"
+    android:layout_margin="10dp"
+    android:focusable="true">
+
+    <TextView
+        android:id="@+id/item_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:textAppearance="?attr/textAppearanceListItem"
+        android:textSize="30dp"
+        android:text="@{cellViewModel.title}"/>
+
+    <TextView
+        android:id="@+id/content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/text_margin"
+        android:textSize="20dp"
+        android:textAppearance="?attr/textAppearanceListItem"
+        android:text="@{cellViewModel.description}" />
+</LinearLayout>
+
+</layout>
