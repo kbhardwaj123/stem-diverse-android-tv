@@ -10,12 +10,12 @@ android:
     - build-tools-29.0.3
     - android-28
     - android-28
-#    - sys-img-armeabi-v7a-android-22
+    - sys-img-x86-android-28
     - extra-android-m2repository
 
 before_script:
   # Create and start emulator
-  - echo no | android create avd --force -n test  -t android-28 -b android-tv -d tv_1080p
+  - echo no | android create avd --force -n test  -t android-28 -b android -d tv_1080p
   - emulator -avd test -no-skin -no-audio -no-window &
   - android-wait-for-emulator
   - adb shell input keyevent 82 &
