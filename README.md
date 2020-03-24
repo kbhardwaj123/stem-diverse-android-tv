@@ -12,9 +12,9 @@ In order to setup the project locally just follow the steps described below:
 
 ## Contributing
 
-Please read our [Contributing guidelines](https://github.com/anitab-org/stem-diverse-android-tv/blob/master/.github/CONTRIBUTING.md), [Code of Conduct](https://github.com/anitab-org/stem-diverse-android-tv/blob/master/.github/CODE_OF_CONDUCT.md) and [Reporting Guidelines](http://systers.io/reporting-guidelines)
+Please read our [Contributing guidelines](.github/CONTRIBUTING.md), [Code of Conduct](.github/CODE_OF_CONDUCT.md) and [Reporting Guidelines](http://systers.io/reporting-guidelines)
 
-Please follow our [Commit Message Style Guide](https://github.com/anitab-org/stem-diverse-android-tv/wiki/Commit-Message-Style-Guide) and [Pull Request Template](https://github.com/anitab-org/stem-diverse-android-tv/blob/master/.github/PULL_REQUEST_TEMPLATE.md) while creating Pull Requests.
+Please follow our [Commit Message Style Guide](https://github.com/anitab-org/stem-diverse-android-tv/wiki/Commit-Message-Style-Guide) and [Pull Request Template](.github/PULL_REQUEST_TEMPLATE.md) while creating Pull Requests.
 
 ## Branches
 
@@ -24,7 +24,7 @@ Please follow our [Commit Message Style Guide](https://github.com/anitab-org/ste
 
 ## Contact
 
-Have a query, feel free to reach out to our team @ on our Slack channel [#STEM-diverse-tv](https://anitab-org.zulipchat.com/login/#narrow/stream/225705-STEM-diverse-tv) where all the discussion on this project are carried out.
+Have a query, feel free to reach out to our team @ on our Zulip channel [#STEM-diverse-tv](https://anitab-org.zulipchat.com/login/#narrow/stream/225705-STEM-diverse-tv) where all the discussion on this project are carried out.
 
 ## License
 
