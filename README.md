@@ -24,7 +24,7 @@ Please follow our [Commit Message Style Guide](https://github.com/anitab-org/ste
 
 ## Contact
 
-Have a query, feel free to reach out to our team @ on our Zulip channel [#STEM-diverse-tv](https://anitab-org.zulipchat.com/login/#narrow/stream/225705-STEM-diverse-tv) where all the discussion on this project are carried out.
+Have a query, feel free to reach out to our team on our Zulip channel [#STEM-diverse-tv](https://anitab-org.zulipchat.com/login/#narrow/stream/225705-STEM-diverse-tv) where all the discussion on this project are carried out.
 
 ## License
 
